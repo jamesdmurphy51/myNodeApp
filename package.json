@@ -1,0 +1,23 @@
+{
+  "name": "mynodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesdmurphy51/simpleNodeApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesdmurphy51/simpleNodeApp/issues"
+  },
+  "homepage": "https://github.com/jamesdmurphy51/simpleNodeApp#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
